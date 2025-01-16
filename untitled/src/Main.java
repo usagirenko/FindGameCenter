@@ -1,11 +1,18 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+import com.fasterxml.jackson.core.JsonParseException;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 public class Main {
     // Method to initialize game centers with cabinets
     private static List<GameCenter> initializeGameCenters() {
-        List<GameCenter> gameCenters = new ArrayList<>();
+        List<GameCenter> gameCenters = new ArrayList<GameCenter>();
         // Create and add cabinets to the first game center
         GameCenter center1 = new GameCenter("Round one Umeda", "4-16 Komatsubaracho, Kita Ward, Osaka, 530-0018, Japan");
         center1.addCabinet(new Maimai(), 8);
@@ -64,7 +71,7 @@ public class Main {
     // Method to show available cabinets across all game centers
     private static void showAvailableCabinets(List<GameCenter> gameCenters, Scanner scanner) {
         System.out.println("=== List of Available Cabinets ===");
-        List<String> availableCabinets = new ArrayList<>();
+        List<String> availableCabinets = new ArrayList<String>();
         for (GameCenter gameCenter : gameCenters) {
             for (List<Cabinet> cabinets : gameCenter.getCabinets()) {
                 for (Cabinet cabinet : cabinets) {
@@ -89,7 +96,7 @@ public class Main {
         System.out.print("Enter the name of the cabinet to search for (Case-insensitive): ");
         String cabinetName = scanner.nextLine();
         boolean found = false;
-        List<GameCenter> hasCabinet = new ArrayList<>();
+        List<GameCenter> hasCabinet = new ArrayList<GameCenter>();
         for (GameCenter gameCenter : gameCenters) {
             if (gameCenter.hasCabinet(cabinetName)) {
                 System.out.printf("%s is found in the game center %s%n", cabinetName, gameCenter.getName());
