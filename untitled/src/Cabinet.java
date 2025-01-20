@@ -99,17 +99,15 @@ public class Cabinet {
     private String name = "Unknown";
     private String description = "Unknown";
     private String manufacturer= "Unknown";
-    private String version= "Unknown";
     private String genre= "Unknown";
     private String status = "Unknown";
     private int pricePerPlay = 100;
 
     // Constructor to initialize cabinet details
-    public Cabinet(String name, String description, String manufacturer, String version, String genre, String status, int pricePerPlay) {
+    public Cabinet(String name, String description, String manufacturer, String genre, String status, int pricePerPlay) {
         this.name = name;
         this.description = description;
         this.manufacturer = manufacturer;
-        this.version = version;
         this.genre = genre;
         this.status = status;
         this.pricePerPlay = pricePerPlay;
@@ -128,9 +126,6 @@ public class Cabinet {
         return manufacturer;
     }
 
-    public String getVersion() {
-        return version;
-    }
 
     public String getGenre() {
         return genre;
@@ -157,9 +152,6 @@ public class Cabinet {
         this.manufacturer = manufacturer;
     }
 
-    public void setVersion(String version) {
-        this.version = version;
-    }
 
     public void setGenre(String genre) {
         this.genre = genre;
@@ -185,7 +177,6 @@ public class Cabinet {
                 "Name: " + name  +
                 "\nDescription: " + description +
                 "\nManufacturer: " + manufacturer  +
-                "\nVersion: " + version  +
                 "\nGenre: " + genre  +
                 "\nStatus: " + status  +
                 "\nPricePerPlay: " + pricePerPlay + " yen";

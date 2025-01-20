@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ＧｉＧＯスエヒロボウル徳島",
+        "address": "徳島県徳島市南末広町４−９５−２",
+        "game": "オンゲキ",
+        "area": "徳島県",
+        "game_id": "88",
+        "region_id": "35",
+        "store_id": "29212",
+        "latitude": "34.06111240737284",
+        "longitude": "134.5727754188755",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯスエヒロボウル徳島"
+    },
+    {
+        "name": "アミューズメントパフェパレパレ田宮店",
+        "address": "徳島県徳島市南田宮２−２−４６",
+        "game": "オンゲキ",
+        "area": "徳島県",
+        "game_id": "88",
+        "region_id": "35",
+        "store_id": "24797",
+        "latitude": "34.0861319",
+        "longitude": "134.5427222",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミューズメントパフェパレパレ田宮店"
+    },
+    {
+        "name": "ラウンドワン徳島・万代店",
+        "address": "徳島県徳島市万代町４−１９−１",
+        "game": "オンゲキ",
+        "area": "徳島県",
+        "game_id": "88",
+        "region_id": "35",
+        "store_id": "24597",
+        "latitude": "34.06479082315941",
+        "longitude": "134.56467388530223",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン徳島・万代店"
+    },
+    {
+        "name": "ＰＡＬＯ小松島",
+        "address": "徳島県小松島市小松島町字領田２０番地　ショッピングプラザルピア",
+        "game": "オンゲキ",
+        "area": "徳島県",
+        "game_id": "88",
+        "region_id": "35",
+        "store_id": "25128",
+        "latitude": "34.005453",
+        "longitude": "134.5725204",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＰＡＬＯ小松島"
+    }
+]

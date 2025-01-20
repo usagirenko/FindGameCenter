@@ -1,0 +1,122 @@
+[
+    {
+        "name": "G-stage浜町",
+        "address": "長崎県長崎市浜町2-26",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "21022",
+        "latitude": "32.7448472",
+        "longitude": "129.8775421",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=G-stage浜町"
+    },
+    {
+        "name": "ＧｉＧＯみらい長崎ココウォーク",
+        "address": "長崎県長崎市茂里町１−５５みらい長崎ココウォーク５Ｆ",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "24852",
+        "latitude": "32.7625341",
+        "longitude": "129.8646484",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯみらい長崎ココウォーク"
+    },
+    {
+        "name": "アソビクル長崎戸町店",
+        "address": "長崎県長崎市戸町４‐９‐３",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "19010",
+        "latitude": "32.7211376",
+        "longitude": "129.8611866",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アソビクル長崎戸町店"
+    },
+    {
+        "name": "アミパラ佐世保店",
+        "address": "長崎県佐世保市大塔町１８−１５",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "24835",
+        "latitude": "33.1500003",
+        "longitude": "129.7803082",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ佐世保店"
+    },
+    {
+        "name": "ＧｉＧＯ諫早",
+        "address": "長崎県諫早市小川町９０−１",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "29142",
+        "latitude": "32.83151063756657",
+        "longitude": "130.0552128294304",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ諫早"
+    },
+    {
+        "name": "Ｇ−ｐａｌａ時津",
+        "address": "長崎県西彼杵郡時津町野田郷５９号",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "29022",
+        "latitude": "32.82435462734485",
+        "longitude": "129.84781194857942",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=Ｇ−ｐａｌａ時津"
+    },
+    {
+        "name": "遊道楽時津店",
+        "address": "長崎県西彼杵郡時津町元村郷８６３−１０",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "25275",
+        "latitude": "32.8201499",
+        "longitude": "129.8473443",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=遊道楽時津店"
+    },
+    {
+        "name": "ソニックワールド大村店",
+        "address": "長崎県大村市古賀島町３８３−１",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "27473",
+        "latitude": "32.9273122",
+        "longitude": "129.9395836",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ソニックワールド大村店"
+    },
+    {
+        "name": "ＧｉＧＯサンスパおおむら",
+        "address": "長崎県大村市森園町６６３−３",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "26837",
+        "latitude": "32.921810296137366",
+        "longitude": "129.9374759030411",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯサンスパおおむら"
+    },
+    {
+        "name": "ファンタジーランド五島",
+        "address": "長崎県五島市吉久木町７３１番地",
+        "game": "オンゲキ",
+        "area": "長崎県",
+        "game_id": "88",
+        "region_id": "41",
+        "store_id": "19980",
+        "latitude": "32.6954275",
+        "longitude": "128.8135179",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ファンタジーランド五島"
+    }
+]

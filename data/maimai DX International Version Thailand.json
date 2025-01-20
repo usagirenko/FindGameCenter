@@ -1,0 +1,62 @@
+[
+    {
+        "name": "EX10(MBK)",
+        "address": "MBK CENTERBLDG.,444 PHAYATHAI RD.,PATHUM WAN BANGKOK",
+        "game": "maimai DX International Version",
+        "area": "Thailand",
+        "game_id": "98",
+        "region_id": "1006",
+        "store_id": "21537",
+        "latitude": "13.744329269815859",
+        "longitude": "100.5299973165794",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=EX10(MBK)"
+    },
+    {
+        "name": "EX10(LADPRAO)",
+        "address": "1693 PHAHOLYOTHIN RD. LADYAO,CHATUCHAK, BANGKOK",
+        "game": "maimai DX International Version",
+        "area": "Thailand",
+        "game_id": "98",
+        "region_id": "1006",
+        "store_id": "20594",
+        "latitude": "13.828598",
+        "longitude": "100.559712",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=EX10(LADPRAO)"
+    },
+    {
+        "name": "GIGA PARK",
+        "address": "No.14/9 Tesgo-Lutus Extra Bangna-Trad, Bang Kaseo Sub-Dist.,",
+        "game": "maimai DX International Version",
+        "area": "Thailand",
+        "game_id": "98",
+        "region_id": "1006",
+        "store_id": "19165",
+        "latitude": "13.6542149",
+        "longitude": "100.6772822",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=GIGA PARK"
+    },
+    {
+        "name": "ECHO GAMES(ZPELL)",
+        "address": "PL2.3.SHP01094PRAHONYOTHINRD,PRACHATIPAT,TANYABURI,PRATHUMTHANI",
+        "game": "maimai DX International Version",
+        "area": "Thailand",
+        "game_id": "98",
+        "region_id": "1006",
+        "store_id": "20677",
+        "latitude": "13.9887697",
+        "longitude": "100.617352",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ECHO GAMES(ZPELL)"
+    },
+    {
+        "name": "EX10(MAYA CHIANGMAI)",
+        "address": "55/5 M.5 CHANGPHEUK  ,MEANG, CHIANGMAI",
+        "game": "maimai DX International Version",
+        "area": "Thailand",
+        "game_id": "98",
+        "region_id": "1006",
+        "store_id": "22393",
+        "latitude": "18.802693294748057",
+        "longitude": "98.96729548067322",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=EX10(MAYA CHIANGMAI)"
+    }
+]

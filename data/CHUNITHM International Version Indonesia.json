@@ -1,0 +1,26 @@
+[
+    {
+        "name": "CPCM PLUIT VILLAGE MALL",
+        "address": "RW.4,KELURAHAN PLUIT,KECAMATAN PENJARINGAN,JAKARTA UTARA 14450",
+        "game": "CHUNITHM International Version",
+        "area": "Indonesia",
+        "game_id": "104",
+        "region_id": "1007",
+        "store_id": "18864",
+        "latitude": "-6.1147451",
+        "longitude": "106.7986648",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=CPCM PLUIT VILLAGE MALL"
+    },
+    {
+        "name": "COW PLAY COW MOO CARSTENSZ MALL",
+        "address": "Jalan jend sudirman no1. Cihuni. Kec pagedangan",
+        "game": "CHUNITHM International Version",
+        "area": "Indonesia",
+        "game_id": "104",
+        "region_id": "1007",
+        "store_id": "19045",
+        "latitude": "-6.2697615",
+        "longitude": "106.6304198",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=COW PLAY COW MOO CARSTENSZ MALL"
+    }
+]

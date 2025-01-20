@@ -1,0 +1,26 @@
+[
+    {
+        "name": "THE MOVE(ALIBABA)",
+        "address": "73 Street, Between 105 x 107, Chan Mya Thar Si Township",
+        "game": "CHUNITHM International Version",
+        "area": "Myanmar",
+        "game_id": "104",
+        "region_id": "1013",
+        "store_id": "19187",
+        "latitude": "21.9427482",
+        "longitude": "96.0935648",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=THE MOVE(ALIBABA)"
+    },
+    {
+        "name": "ALIBABA 7",
+        "address": "4TH FLOOR, JUNCTION CITY, PABEDAN TOWNSHIP,YANGON",
+        "game": "CHUNITHM International Version",
+        "area": "Myanmar",
+        "game_id": "104",
+        "region_id": "1013",
+        "store_id": "19694",
+        "latitude": "16.7790825",
+        "longitude": "96.1543205",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ALIBABA 7"
+    }
+]

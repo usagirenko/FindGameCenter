@@ -1,0 +1,62 @@
+[
+    {
+        "name": "遊道楽嘉瀬店",
+        "address": "佐賀県佐賀市嘉瀬町中原２４８８−１",
+        "game": "maimai でらっくす",
+        "area": "佐賀県",
+        "game_id": "96",
+        "region_id": "40",
+        "store_id": "28314",
+        "latitude": "33.2422048",
+        "longitude": "130.2565009",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=遊道楽嘉瀬店"
+    },
+    {
+        "name": "ラウンドワン佐賀店",
+        "address": "佐賀県佐賀市兵庫北４−２−１",
+        "game": "maimai でらっくす",
+        "area": "佐賀県",
+        "game_id": "96",
+        "region_id": "40",
+        "store_id": "25512",
+        "latitude": "33.2752276255775",
+        "longitude": "130.30105511849365",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン佐賀店"
+    },
+    {
+        "name": "ｎａｍｃｏモラージュ佐賀店",
+        "address": "佐賀県佐賀市巨勢町大字牛島７３０モラージュ佐賀南館１Ｆ",
+        "game": "maimai でらっくす",
+        "area": "佐賀県",
+        "game_id": "96",
+        "region_id": "40",
+        "store_id": "20198",
+        "latitude": "33.2512754",
+        "longitude": "130.3196785",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ｎａｍｃｏモラージュ佐賀店"
+    },
+    {
+        "name": "ＧｉＧＯ武雄",
+        "address": "佐賀県武雄市武雄町富岡１２５１７−１",
+        "game": "maimai でらっくす",
+        "area": "佐賀県",
+        "game_id": "96",
+        "region_id": "40",
+        "store_id": "25889",
+        "latitude": "33.1993539",
+        "longitude": "130.0346461",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ武雄"
+    },
+    {
+        "name": "パスカランド鳥栖",
+        "address": "佐賀県鳥栖市本鳥栖町５３７−１フレスポ鳥栖店２階",
+        "game": "maimai でらっくす",
+        "area": "佐賀県",
+        "game_id": "96",
+        "region_id": "40",
+        "store_id": "19458",
+        "latitude": "33.3758911",
+        "longitude": "130.5168476",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=パスカランド鳥栖"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "GAME WORLD(CHIAO KUONG)",
+        "address": "R.GRACIOSA 57 R/C+SL, FLAT H,ED. IND. CHIAO KUONG, MACAU",
+        "game": "maimai DX International Version",
+        "area": "Macau",
+        "game_id": "98",
+        "region_id": "1008",
+        "store_id": "24124",
+        "latitude": "22.21026144594399",
+        "longitude": "113.5525421110483",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=GAME WORLD(CHIAO KUONG)"
+    },
+    {
+        "name": "BEEBEE LAND",
+        "address": "R92A, 2F, H853 Fun Factory, Lisboeta, Macau",
+        "game": "maimai DX International Version",
+        "area": "Macau",
+        "game_id": "98",
+        "region_id": "1008",
+        "store_id": "19096",
+        "latitude": "22.1415633",
+        "longitude": "113.5729178",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=BEEBEE LAND"
+    },
+    {
+        "name": "YURAKUCHO",
+        "address": "N 5-7A,Rua de Sacadura Cabral N14-18B,R/C E,EDF.POU SENG",
+        "game": "maimai DX International Version",
+        "area": "Macau",
+        "game_id": "98",
+        "region_id": "1008",
+        "store_id": "19358",
+        "latitude": "22.1991168",
+        "longitude": "113.5469361",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=YURAKUCHO"
+    }
+]

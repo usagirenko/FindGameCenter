@@ -1,0 +1,74 @@
+[
+    {
+        "name": "ラウンドワン奈良・ミナーラ店",
+        "address": "奈良県奈良市二条大路南１−３−１ミ・ナーラ５階",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "28653",
+        "latitude": "34.68491160000001",
+        "longitude": "135.80254049999996",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン奈良・ミナーラ店"
+    },
+    {
+        "name": "アミューズメントＣＵＥ奈良三条店",
+        "address": "奈良県奈良市三条町478-1",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "26280",
+        "latitude": "34.6817818",
+        "longitude": "135.8221376",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミューズメントＣＵＥ奈良三条店"
+    },
+    {
+        "name": "キッズサーカス奈良柏木店",
+        "address": "奈良県奈良市柏木町４５６−１",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "22613",
+        "latitude": "34.6718191",
+        "longitude": "135.7991956",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=キッズサーカス奈良柏木店"
+    },
+    {
+        "name": "アミパラ橿原店",
+        "address": "奈良県橿原市十市町1222-1ツインゲート橿原１F",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "21052",
+        "latitude": "34.529415",
+        "longitude": "135.7968476",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ橿原店"
+    },
+    {
+        "name": "SOYUGameField奈良橿原店",
+        "address": "奈良県橿原市曲川町7-20-1　イオンモール橿原3F",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "26313",
+        "latitude": "34.5055231",
+        "longitude": "135.7624537",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=SOYUGameField奈良橿原店"
+    },
+    {
+        "name": "アミューズメントＣＵＥ奈良大和高田店",
+        "address": "奈良県大和高田市東中２−１１−１６",
+        "game": "オンゲキ",
+        "area": "奈良県",
+        "game_id": "88",
+        "region_id": "28",
+        "store_id": "25692",
+        "latitude": "34.499776",
+        "longitude": "135.7355951",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミューズメントＣＵＥ奈良大和高田店"
+    }
+]

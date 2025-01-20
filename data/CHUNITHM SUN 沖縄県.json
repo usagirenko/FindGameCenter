@@ -1,0 +1,122 @@
+[
+    {
+        "name": "ｎａｍｃｏサンエー浦添西海岸パルコシティ",
+        "address": "沖縄県浦添市西洲３丁目１番１サンエー浦添西海岸パルコシティ３階",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "20103",
+        "latitude": "26.2617727",
+        "longitude": "127.6978482",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ｎａｍｃｏサンエー浦添西海岸パルコシティ"
+    },
+    {
+        "name": "ジョイジャングル美浜",
+        "address": "沖縄県中頭郡北谷町美浜１５−６８",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "26161",
+        "latitude": "26.3172082",
+        "longitude": "127.7571399",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ジョイジャングル美浜"
+    },
+    {
+        "name": "ＧｉＧＯ北谷",
+        "address": "沖縄県中頭郡北谷町美浜９−８",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "29131",
+        "latitude": "26.3169305",
+        "longitude": "127.7555816",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ北谷"
+    },
+    {
+        "name": "ｎａｍｃｏイオンタウン読谷ＳＣ店",
+        "address": "沖縄県中頭郡読谷村古堅７４０イオンタウン読谷ＳＣ内",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "24933",
+        "latitude": "26.367977574996914",
+        "longitude": "127.74603421045072",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ｎａｍｃｏイオンタウン読谷ＳＣ店"
+    },
+    {
+        "name": "楽市楽座イオンモール沖縄ライカム店",
+        "address": "沖縄県中頭郡北中城村字沖縄ﾗｲｶﾑ1ｲｵﾝﾓｰﾙ沖縄ﾗｲｶﾑ4階",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "21386",
+        "latitude": "26.31428593550463",
+        "longitude": "127.79646441034242",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=楽市楽座イオンモール沖縄ライカム店"
+    },
+    {
+        "name": "モーリーファンタジー那覇",
+        "address": "沖縄県那覇市金城５−１０−２　イオン那覇店３F",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "25302",
+        "latitude": "26.1970331",
+        "longitude": "127.6658532",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=モーリーファンタジー那覇"
+    },
+    {
+        "name": "ラウンドワン沖縄・宜野湾店",
+        "address": "沖縄県宜野湾市真志喜３−２８−８",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "24764",
+        "latitude": "26.27585421646083",
+        "longitude": "127.73100905463104",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン沖縄・宜野湾店"
+    },
+    {
+        "name": "ゲームランドジョイジャングルｉｎとみとん",
+        "address": "沖縄県豊見城市字豊崎1-411豊崎ﾗｲﾌｽﾀｲﾙｾﾝﾀｰTOMITON2階",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "22972",
+        "latitude": "26.1582291",
+        "longitude": "127.6595326",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ゲームランドジョイジャングルｉｎとみとん"
+    },
+    {
+        "name": "ｎａｍｃｏイオン具志川店",
+        "address": "沖縄県うるま市字前原幸崎原３０３イオン具志川ＳＣ内２Ｆ",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "26225",
+        "latitude": "26.338368568166477",
+        "longitude": "127.84468092763063",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ｎａｍｃｏイオン具志川店"
+    },
+    {
+        "name": "ラウンドワン沖縄・南風原店",
+        "address": "沖縄県島尻郡南風原町字兼城５５２番地",
+        "game": "CHUNITHM SUN",
+        "area": "沖縄県",
+        "game_id": "109",
+        "region_id": "46",
+        "store_id": "24625",
+        "latitude": "26.19510823110462",
+        "longitude": "127.72096257312467",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン沖縄・南風原店"
+    }
+]

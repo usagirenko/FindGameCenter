@@ -1,0 +1,86 @@
+[
+    {
+        "name": "フクイレジャーランドワイプラザ店",
+        "address": "福井県福井市新保北1-303　ヤスサキワイプラザＢ棟2Ｆ",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "28821",
+        "latitude": "36.08618355072835",
+        "longitude": "136.2493644266358",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=フクイレジャーランドワイプラザ店"
+    },
+    {
+        "name": "Ｌｅｔ’ｓ　ＷＡＫＵ２　エルパ",
+        "address": "福井県福井市大和田2-1212",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "23262",
+        "latitude": "36.0957091",
+        "longitude": "136.2502611",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=Ｌｅｔ’ｓ　ＷＡＫＵ２　エルパ"
+    },
+    {
+        "name": "ＧｉＧＯ福井",
+        "address": "福井県福井市丸山１−４１０",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "29275",
+        "latitude": "36.0733530852084",
+        "longitude": "136.24298935550542",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ福井"
+    },
+    {
+        "name": "福井レジャーランド板垣店",
+        "address": "福井県福井市下馬３−１０２",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "20603",
+        "latitude": "36.042308920176566",
+        "longitude": "136.23376256217955",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=福井レジャーランド板垣店"
+    },
+    {
+        "name": "ＧｉＧＯ武生",
+        "address": "福井県越前市新町３−１３−４",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "29255",
+        "latitude": "35.9051868",
+        "longitude": "136.1534092",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ武生"
+    },
+    {
+        "name": "タイトーＦステーションアル・プラザ鯖江店",
+        "address": "福井県鯖江市下河端町１６−１６−１アルプラザ鯖江アミューズ棟内",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "19607",
+        "latitude": "35.9693068",
+        "longitude": "136.1895131",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=タイトーＦステーションアル・プラザ鯖江店"
+    },
+    {
+        "name": "ＪＯＹＬＡＮＤ敦賀店",
+        "address": "福井県敦賀市木崎４０ー１２",
+        "game": "maimai でらっくす",
+        "area": "福井県",
+        "game_id": "96",
+        "region_id": "17",
+        "store_id": "25068",
+        "latitude": "35.644745681741696",
+        "longitude": "136.04315835816647",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＪＯＹＬＡＮＤ敦賀店"
+    }
+]

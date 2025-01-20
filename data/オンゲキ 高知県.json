@@ -1,0 +1,62 @@
+[
+    {
+        "name": "アミパラ高知店",
+        "address": "高知県南国市篠原１９４−１",
+        "game": "オンゲキ",
+        "area": "高知県",
+        "game_id": "88",
+        "region_id": "38",
+        "store_id": "25423",
+        "latitude": "33.5679737",
+        "longitude": "133.6344573",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ高知店"
+    },
+    {
+        "name": "プラサカプコン高知",
+        "address": "高知県高知市秦南町１−４−８イオンモール高知３Ｆ",
+        "game": "オンゲキ",
+        "area": "高知県",
+        "game_id": "88",
+        "region_id": "38",
+        "store_id": "26179",
+        "latitude": "33.576424787411405",
+        "longitude": "133.54245958470779",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=プラサカプコン高知"
+    },
+    {
+        "name": "ＧｉＧＯフジグラン高知",
+        "address": "高知県高知市朝倉東町５２−１５フジグラン高知３Ｆ",
+        "game": "オンゲキ",
+        "area": "高知県",
+        "game_id": "88",
+        "region_id": "38",
+        "store_id": "25246",
+        "latitude": "33.54303670615244",
+        "longitude": "133.49790661216434",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯフジグラン高知"
+    },
+    {
+        "name": "ラウンドワン高知店",
+        "address": "高知県高知市南宝永町４−１２",
+        "game": "オンゲキ",
+        "area": "高知県",
+        "game_id": "88",
+        "region_id": "38",
+        "store_id": "24542",
+        "latitude": "33.5578349",
+        "longitude": "133.5543516",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン高知店"
+    },
+    {
+        "name": "ウェアハウス四万十店",
+        "address": "高知県四万十市右山五月町８−１３アピアさつき２F",
+        "game": "オンゲキ",
+        "area": "高知県",
+        "game_id": "88",
+        "region_id": "38",
+        "store_id": "25178",
+        "latitude": "32.9871096",
+        "longitude": "132.9392991",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ウェアハウス四万十店"
+    }
+]

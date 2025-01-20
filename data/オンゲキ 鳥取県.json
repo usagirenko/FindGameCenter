@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ＧｉＧＯ米子",
+        "address": "鳥取県米子市両三柳２７７８−２",
+        "game": "オンゲキ",
+        "area": "鳥取県",
+        "game_id": "88",
+        "region_id": "30",
+        "store_id": "29124",
+        "latitude": "35.459874",
+        "longitude": "133.3221969",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ米子"
+    },
+    {
+        "name": "アピナ米子店",
+        "address": "鳥取県米子市米原二丁目１３２０番地１メガドン・キホーテ３階",
+        "game": "オンゲキ",
+        "area": "鳥取県",
+        "game_id": "88",
+        "region_id": "30",
+        "store_id": "18900",
+        "latitude": "35.442283",
+        "longitude": "133.3300695",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アピナ米子店"
+    },
+    {
+        "name": "アミパラがいな店",
+        "address": "鳥取県米子市日ノ出町１−８−１３",
+        "game": "オンゲキ",
+        "area": "鳥取県",
+        "game_id": "88",
+        "region_id": "30",
+        "store_id": "21455",
+        "latitude": "35.4377737",
+        "longitude": "133.3391965",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラがいな店"
+    },
+    {
+        "name": "ＧｉＧＯ鳥取",
+        "address": "鳥取県鳥取市安長４１６",
+        "game": "オンゲキ",
+        "area": "鳥取県",
+        "game_id": "88",
+        "region_id": "30",
+        "store_id": "29038",
+        "latitude": "35.5118559",
+        "longitude": "134.2105547",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ鳥取"
+    },
+    {
+        "name": "アミパラ鳥取店",
+        "address": "鳥取県鳥取市晩稲348イオンモール鳥取北２Ｆ",
+        "game": "オンゲキ",
+        "area": "鳥取県",
+        "game_id": "88",
+        "region_id": "30",
+        "store_id": "28287",
+        "latitude": "35.5246763",
+        "longitude": "134.2015356",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ鳥取店"
+    }
+]

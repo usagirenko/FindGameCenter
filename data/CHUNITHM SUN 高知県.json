@@ -1,0 +1,98 @@
+[
+    {
+        "name": "アミパラ高知店",
+        "address": "高知県南国市篠原１９４−１",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "25423",
+        "latitude": "33.5679737",
+        "longitude": "133.6344573",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ高知店"
+    },
+    {
+        "name": "チッキッズイオン高知旭町店",
+        "address": "高知県高知市旭町３−９４イオン高知旭町店２Ｆ",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "23118",
+        "latitude": "33.5561322",
+        "longitude": "133.5052438",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=チッキッズイオン高知旭町店"
+    },
+    {
+        "name": "えの木",
+        "address": "高知県高知市旭町3丁目100-3",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "27977",
+        "latitude": "33.5558198",
+        "longitude": "133.5061151",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=えの木"
+    },
+    {
+        "name": "プラサカプコン高知",
+        "address": "高知県高知市秦南町１−４−８イオンモール高知３Ｆ",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "26179",
+        "latitude": "33.576424787411405",
+        "longitude": "133.54245958470779",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=プラサカプコン高知"
+    },
+    {
+        "name": "ＧｉＧＯフジグラン高知",
+        "address": "高知県高知市朝倉東町５２−１５フジグラン高知３Ｆ",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "25246",
+        "latitude": "33.54303670615244",
+        "longitude": "133.49790661216434",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯフジグラン高知"
+    },
+    {
+        "name": "ラウンドワン高知店",
+        "address": "高知県高知市南宝永町４−１２",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "24542",
+        "latitude": "33.5578349",
+        "longitude": "133.5543516",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン高知店"
+    },
+    {
+        "name": "ウェアハウス四万十店",
+        "address": "高知県四万十市右山五月町８−１３アピアさつき２F",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "25178",
+        "latitude": "32.9871096",
+        "longitude": "132.9392991",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ウェアハウス四万十店"
+    },
+    {
+        "name": "チッキッズ　サニーアクシスいの店",
+        "address": "高知県吾川郡いの町２０５番地サニーアクシスいの２F",
+        "game": "CHUNITHM SUN",
+        "area": "高知県",
+        "game_id": "109",
+        "region_id": "38",
+        "store_id": "23209",
+        "latitude": "33.5505241584458",
+        "longitude": "133.44241956560666",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=チッキッズ　サニーアクシスいの店"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "アピナ米子店",
+        "address": "鳥取県米子市米原二丁目１３２０番地１メガドン・キホーテ３階",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "18900",
+        "latitude": "35.442283",
+        "longitude": "133.3300695",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アピナ米子店"
+    },
+    {
+        "name": "アミパラがいな店",
+        "address": "鳥取県米子市日ノ出町１−８−１３",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "21455",
+        "latitude": "35.4377737",
+        "longitude": "133.3391965",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラがいな店"
+    },
+    {
+        "name": "ＧｉＧＯ鳥取",
+        "address": "鳥取県鳥取市安長４１６",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "29038",
+        "latitude": "35.5118559",
+        "longitude": "134.2105547",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ鳥取"
+    },
+    {
+        "name": "アミパラ鳥取店",
+        "address": "鳥取県鳥取市晩稲348イオンモール鳥取北２Ｆ",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "28287",
+        "latitude": "35.5246763",
+        "longitude": "134.2015356",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ鳥取店"
+    },
+    {
+        "name": "ＰＡＬＯ鳥取店",
+        "address": "鳥取県鳥取市天神町1　2F",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "23608",
+        "latitude": "35.493514",
+        "longitude": "134.2219484",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＰＡＬＯ鳥取店"
+    },
+    {
+        "name": "アミパラ日吉津店",
+        "address": "鳥取県西伯郡日吉津村日吉津１１６０−１イオン日吉津モール西館2F",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "28286",
+        "latitude": "35.44567455548935",
+        "longitude": "133.3872245748688",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ日吉津店"
+    },
+    {
+        "name": "ＰＡＬＯ境港",
+        "address": "鳥取県境港市竹内団地８１−３",
+        "game": "maimai でらっくす",
+        "area": "鳥取県",
+        "game_id": "96",
+        "region_id": "30",
+        "store_id": "24982",
+        "latitude": "35.52244361020353",
+        "longitude": "133.25251597368015",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＰＡＬＯ境港"
+    }
+]

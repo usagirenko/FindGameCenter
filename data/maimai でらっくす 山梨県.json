@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ゲームパニック甲府",
+        "address": "山梨県甲府市国母5-20-24",
+        "game": "maimai でらっくす",
+        "area": "山梨県",
+        "game_id": "96",
+        "region_id": "18",
+        "store_id": "26365",
+        "latitude": "35.64204016813666",
+        "longitude": "138.54736129755327",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ゲームパニック甲府"
+    },
+    {
+        "name": "プレイタウンパル富士吉田店",
+        "address": "山梨県富士吉田市新西原４−１２−１５",
+        "game": "maimai でらっくす",
+        "area": "山梨県",
+        "game_id": "96",
+        "region_id": "18",
+        "store_id": "28187",
+        "latitude": "35.48310524082727",
+        "longitude": "138.7796890484101",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=プレイタウンパル富士吉田店"
+    },
+    {
+        "name": "楽市楽座イオンモール甲府店",
+        "address": "山梨県中巨摩郡昭和町飯喰１５０５−１イオンモール２０１１",
+        "game": "maimai でらっくす",
+        "area": "山梨県",
+        "game_id": "96",
+        "region_id": "18",
+        "store_id": "24125",
+        "latitude": "35.62322077692733",
+        "longitude": "138.52757599765323",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=楽市楽座イオンモール甲府店"
+    },
+    {
+        "name": "プラサカプコン甲府店",
+        "address": "山梨県中巨摩郡昭和町西条３７１７",
+        "game": "maimai でらっくす",
+        "area": "山梨県",
+        "game_id": "96",
+        "region_id": "18",
+        "store_id": "25072",
+        "latitude": "35.64289593832039",
+        "longitude": "138.5462509330963",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=プラサカプコン甲府店"
+    }
+]

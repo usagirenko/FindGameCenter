@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ジーパラ出雲",
+        "address": "島根県出雲市渡橋町７８４−１",
+        "game": "maimai でらっくす",
+        "area": "島根県",
+        "game_id": "96",
+        "region_id": "31",
+        "store_id": "29159",
+        "latitude": "35.3660626",
+        "longitude": "132.7434242",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ジーパラ出雲"
+    },
+    {
+        "name": "ｙｏｕｍｅ　ＣＩＲＣＵＳ出雲店",
+        "address": "島根県出雲市大塚町６５０−１ゆめタウン出雲店　東館３Ｆ",
+        "game": "maimai でらっくす",
+        "area": "島根県",
+        "game_id": "96",
+        "region_id": "31",
+        "store_id": "24896",
+        "latitude": "35.3774033",
+        "longitude": "132.756228",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ｙｏｕｍｅ　ＣＩＲＣＵＳ出雲店"
+    },
+    {
+        "name": "ＧｉＧＯ松江",
+        "address": "島根県松江市嫁島町１２−１５",
+        "game": "maimai でらっくす",
+        "area": "島根県",
+        "game_id": "96",
+        "region_id": "31",
+        "store_id": "29160",
+        "latitude": "35.4500922",
+        "longitude": "133.0478147",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ松江"
+    },
+    {
+        "name": "アミパラ松江店",
+        "address": "島根県松江市東朝日町２０３−１",
+        "game": "maimai でらっくす",
+        "area": "島根県",
+        "game_id": "96",
+        "region_id": "31",
+        "store_id": "20043",
+        "latitude": "35.4637094",
+        "longitude": "133.0741923",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミパラ松江店"
+    },
+    {
+        "name": "ＰＡＬＯ松江",
+        "address": "島根県松江市東朝日町１５１　イオン松江店ＳＣ３Ｆ",
+        "game": "maimai でらっくす",
+        "area": "島根県",
+        "game_id": "96",
+        "region_id": "31",
+        "store_id": "24494",
+        "latitude": "35.4639773",
+        "longitude": "133.0694928",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＰＡＬＯ松江"
+    }
+]

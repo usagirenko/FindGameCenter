@@ -1,0 +1,98 @@
+[
+    {
+        "name": "バイパスレジャーランド藤江新館",
+        "address": "石川県金沢市藤江南2-105",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "28408",
+        "latitude": "36.58378149154915",
+        "longitude": "136.62068552943038",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=バイパスレジャーランド藤江新館"
+    },
+    {
+        "name": "ＧｉＧＯアルプラザ金沢",
+        "address": "石川県金沢市諸江町３０−１",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "29045",
+        "latitude": "36.59108678632905",
+        "longitude": "136.64315401268925",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯアルプラザ金沢"
+    },
+    {
+        "name": "ラウンドワン金沢店",
+        "address": "石川県金沢市横川6-120-1",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "25714",
+        "latitude": "36.542063",
+        "longitude": "136.6259888",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン金沢店"
+    },
+    {
+        "name": "ＧｉＧＯイオンタウン金沢示野",
+        "address": "石川県金沢市戸板西２−１",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "22842",
+        "latitude": "36.5792048849774",
+        "longitude": "136.61588502365373",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯイオンタウン金沢示野"
+    },
+    {
+        "name": "バイパスレジャーランド加賀店",
+        "address": "石川県加賀市箱宮町ヲ1-1",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "27516",
+        "latitude": "36.32519439370059",
+        "longitude": "136.41138663313518",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=バイパスレジャーランド加賀店"
+    },
+    {
+        "name": "ゲームセンターベティ",
+        "address": "石川県七尾市舟尾町ウ-38",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "27601",
+        "latitude": "37.06719494045102",
+        "longitude": "136.90699148555836",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ゲームセンターベティ"
+    },
+    {
+        "name": "ＭＩＲＡＩＮＯイオンモール白山店",
+        "address": "石川県白山市横江町５００１番地",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "19514",
+        "latitude": "36.543113",
+        "longitude": "136.585317",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＭＩＲＡＩＮＯイオンモール白山店"
+    },
+    {
+        "name": "アピナ野々市店",
+        "address": "石川県野々市市白山町４−１イオンタウン野々市店内",
+        "game": "オンゲキ",
+        "area": "石川県",
+        "game_id": "88",
+        "region_id": "16",
+        "store_id": "21538",
+        "latitude": "36.527385610438145",
+        "longitude": "136.61219689133225",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アピナ野々市店"
+    }
+]

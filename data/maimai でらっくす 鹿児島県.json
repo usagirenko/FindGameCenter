@@ -1,0 +1,122 @@
+[
+    {
+        "name": "サープラ天文館あそびタウン",
+        "address": "鹿児島県鹿児島市千日町５ー６",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "28061",
+        "latitude": "31.5892294",
+        "longitude": "130.5557189",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=サープラ天文館あそびタウン"
+    },
+    {
+        "name": "ゲームセンター電撃ベイサイド",
+        "address": "鹿児島県鹿児島市浜町2-2",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "24220",
+        "latitude": "31.60230445506582",
+        "longitude": "130.5657537362457",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ゲームセンター電撃ベイサイド"
+    },
+    {
+        "name": "タイトーアミュプラザ鹿児島店",
+        "address": "鹿児島県鹿児島市中央町１−１アミュプラザ鹿児島５Ｆ",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "25446",
+        "latitude": "31.584643023065237",
+        "longitude": "130.54273158175351",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=タイトーアミュプラザ鹿児島店"
+    },
+    {
+        "name": "ラウンドワン鹿児島宇宿店",
+        "address": "鹿児島県鹿児島市宇宿2-2-2",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "25861",
+        "latitude": "31.5447366",
+        "longitude": "130.5434185",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン鹿児島宇宿店"
+    },
+    {
+        "name": "パスカランド　かのや店",
+        "address": "鹿児島県鹿屋市白崎町４ー１　イオンかのや３Ｆ",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "26150",
+        "latitude": "31.3786228",
+        "longitude": "130.8561438",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=パスカランド　かのや店"
+    },
+    {
+        "name": "マンガ倉庫鹿屋店",
+        "address": "鹿児島県鹿屋市寿８丁目７１４−２",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "19713",
+        "latitude": "31.3833665",
+        "longitude": "130.8765948",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=マンガ倉庫鹿屋店"
+    },
+    {
+        "name": "タイトーＦステーションニシムタ出水店",
+        "address": "鹿児島県出水市六月田町３４７番地",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "20013",
+        "latitude": "32.10524811337652",
+        "longitude": "130.34544106137696",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=タイトーＦステーションニシムタ出水店"
+    },
+    {
+        "name": "ＡｍｕｓｅｍｅｎｔｃｉｔｙＧ−ＳＴＡ",
+        "address": "鹿児島県薩摩川内市向田本町４９番",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "25477",
+        "latitude": "31.815807337301123",
+        "longitude": "130.30740182481463",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＡｍｕｓｅｍｅｎｔｃｉｔｙＧ−ＳＴＡ"
+    },
+    {
+        "name": "サープラ隼人あそびタウン",
+        "address": "鹿児島県霧島市隼人町見次４２７−１",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "20327",
+        "latitude": "31.74118251821821",
+        "longitude": "130.7376746242981",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=サープラ隼人あそびタウン"
+    },
+    {
+        "name": "楽市楽座イオンタウン姶良店",
+        "address": "鹿児島県姶良市東餅田336",
+        "game": "maimai でらっくす",
+        "area": "鹿児島県",
+        "game_id": "96",
+        "region_id": "45",
+        "store_id": "20726",
+        "latitude": "31.732315119001374",
+        "longitude": "130.62659205711668",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=楽市楽座イオンタウン姶良店"
+    }
+]

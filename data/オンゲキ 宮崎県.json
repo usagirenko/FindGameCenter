@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ラウンドワン宮崎店",
+        "address": "宮崎県宮崎市中村東３−４−６０",
+        "game": "オンゲキ",
+        "area": "宮崎県",
+        "game_id": "88",
+        "region_id": "44",
+        "store_id": "25454",
+        "latitude": "31.8953441",
+        "longitude": "131.4175947",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン宮崎店"
+    },
+    {
+        "name": "ＧｉＧＯアミュプラザみやざき",
+        "address": "宮崎県宮崎市老松２丁目２番２２号アミュプラザみやざき　うみ館",
+        "game": "オンゲキ",
+        "area": "宮崎県",
+        "game_id": "88",
+        "region_id": "44",
+        "store_id": "19622",
+        "latitude": "31.9142659",
+        "longitude": "131.4315529",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯアミュプラザみやざき"
+    },
+    {
+        "name": "ＧｉＧＯ延岡",
+        "address": "宮崎県延岡市平原町５−１４９２−８",
+        "game": "オンゲキ",
+        "area": "宮崎県",
+        "game_id": "88",
+        "region_id": "44",
+        "store_id": "29126",
+        "latitude": "32.5498259",
+        "longitude": "131.6778907",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯ延岡"
+    },
+    {
+        "name": "ピノキオランド日南",
+        "address": "宮崎県日南市材木町１ＳＣ日南２Ｆ",
+        "game": "オンゲキ",
+        "area": "宮崎県",
+        "game_id": "88",
+        "region_id": "44",
+        "store_id": "23271",
+        "latitude": "31.58664862388633",
+        "longitude": "131.40130682076267",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ピノキオランド日南"
+    }
+]

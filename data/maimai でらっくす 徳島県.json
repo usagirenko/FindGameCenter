@@ -1,0 +1,74 @@
+[
+    {
+        "name": "アポロゲームセンター沖洲店",
+        "address": "徳島県徳島市南沖洲１−９３",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "26141",
+        "latitude": "34.067137798469645",
+        "longitude": "134.5828204618324",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アポロゲームセンター沖洲店"
+    },
+    {
+        "name": "ＧｉＧＯスエヒロボウル徳島",
+        "address": "徳島県徳島市南末広町４−９５−２",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "29212",
+        "latitude": "34.06111240737284",
+        "longitude": "134.5727754188755",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＧｉＧＯスエヒロボウル徳島"
+    },
+    {
+        "name": "アミューズメントパフェパレパレ田宮店",
+        "address": "徳島県徳島市南田宮２−２−４６",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "24797",
+        "latitude": "34.0861319",
+        "longitude": "134.5427222",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=アミューズメントパフェパレパレ田宮店"
+    },
+    {
+        "name": "ラウンドワン徳島・万代店",
+        "address": "徳島県徳島市万代町４−１９−１",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "24597",
+        "latitude": "34.06479082315941",
+        "longitude": "134.56467388530223",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン徳島・万代店"
+    },
+    {
+        "name": "タイトーステーションフジグラン北島店",
+        "address": "徳島県板野郡北島町鯛浜字西ノ須１７４",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "25445",
+        "latitude": "34.11303551034965",
+        "longitude": "134.54609583248885",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=タイトーステーションフジグラン北島店"
+    },
+    {
+        "name": "ＰＡＬＯ小松島",
+        "address": "徳島県小松島市小松島町字領田２０番地　ショッピングプラザルピア",
+        "game": "maimai でらっくす",
+        "area": "徳島県",
+        "game_id": "96",
+        "region_id": "35",
+        "store_id": "25128",
+        "latitude": "34.005453",
+        "longitude": "134.5725204",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＰＡＬＯ小松島"
+    }
+]

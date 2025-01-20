@@ -1,0 +1,74 @@
+[
+    {
+        "name": "THE MOVE(ALIBABA)",
+        "address": "73 Street, Between 105 x 107, Chan Mya Thar Si Township",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19187",
+        "latitude": "21.9427482",
+        "longitude": "96.0935648",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=THE MOVE(ALIBABA)"
+    },
+    {
+        "name": "ALIBABA 3",
+        "address": "E 206, 2ND, MYANMAR CENTER, KABAAYE PAGODA ROAD, BAHAN,YANGON",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19697",
+        "latitude": "16.8152865",
+        "longitude": "96.1559192",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ALIBABA 3"
+    },
+    {
+        "name": "ALIBABA 4",
+        "address": "3RD FLOOR, JUNCTION SQUARE, KAMARYUT, YANGON",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19696",
+        "latitude": "16.8171212",
+        "longitude": "96.130712",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ALIBABA 4"
+    },
+    {
+        "name": "ARCADE HERO",
+        "address": "2ND FLOOR, OCEAN CENTER, PAZUNDAUNG TOWNSHIP, YANGON",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19692",
+        "latitude": "16.774124",
+        "longitude": "96.1784676",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ARCADE HERO"
+    },
+    {
+        "name": "ALIBABA 7",
+        "address": "4TH FLOOR, JUNCTION CITY, PABEDAN TOWNSHIP,YANGON",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19694",
+        "latitude": "16.7790825",
+        "longitude": "96.1543205",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ALIBABA 7"
+    },
+    {
+        "name": "GAZE AMUSEMENT",
+        "address": "4th Floor, City Square Center, TaungGyi, Shan State",
+        "game": "maimai DX International Version",
+        "area": "Myanmar",
+        "game_id": "98",
+        "region_id": "1013",
+        "store_id": "19659",
+        "latitude": "20.7832527",
+        "longitude": "97.036497",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=GAZE AMUSEMENT"
+    }
+]

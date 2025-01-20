@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ラウンドワン和歌山店",
+        "address": "和歌山県和歌山市小雑賀７３９−３",
+        "game": "CHUNITHM SUN",
+        "area": "和歌山県",
+        "game_id": "109",
+        "region_id": "29",
+        "store_id": "25273",
+        "latitude": "34.19846120983911",
+        "longitude": "135.1859699841309",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン和歌山店"
+    },
+    {
+        "name": "ピタゴラス和歌山",
+        "address": "和歌山県和歌山市土入７３−１",
+        "game": "CHUNITHM SUN",
+        "area": "和歌山県",
+        "game_id": "109",
+        "region_id": "29",
+        "store_id": "19654",
+        "latitude": "34.2528724",
+        "longitude": "135.1456279",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ピタゴラス和歌山"
+    },
+    {
+        "name": "ユーズランド和歌山店",
+        "address": "和歌山県和歌山市ふじと台２３番地イオンモール和歌山２Ｆ",
+        "game": "CHUNITHM SUN",
+        "area": "和歌山県",
+        "game_id": "109",
+        "region_id": "29",
+        "store_id": "22436",
+        "latitude": "34.27615428140735",
+        "longitude": "135.14920095560296",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ユーズランド和歌山店"
+    },
+    {
+        "name": "紀ノ川ボウル",
+        "address": "和歌山県岩出市西国分656-1",
+        "game": "CHUNITHM SUN",
+        "area": "和歌山県",
+        "game_id": "109",
+        "region_id": "29",
+        "store_id": "26425",
+        "latitude": "34.2642134",
+        "longitude": "135.3300763",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=紀ノ川ボウル"
+    }
+]

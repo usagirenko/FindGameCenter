@@ -1,0 +1,74 @@
+[
+    {
+        "name": "サープラ天文館あそびタウン",
+        "address": "鹿児島県鹿児島市千日町５ー６",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "28061",
+        "latitude": "31.5892294",
+        "longitude": "130.5557189",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=サープラ天文館あそびタウン"
+    },
+    {
+        "name": "ゲームセンター電撃ベイサイド",
+        "address": "鹿児島県鹿児島市浜町2-2",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "24220",
+        "latitude": "31.60230445506582",
+        "longitude": "130.5657537362457",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ゲームセンター電撃ベイサイド"
+    },
+    {
+        "name": "ラウンドワン鹿児島宇宿店",
+        "address": "鹿児島県鹿児島市宇宿2-2-2",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "25861",
+        "latitude": "31.5447366",
+        "longitude": "130.5434185",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ラウンドワン鹿児島宇宿店"
+    },
+    {
+        "name": "マンガ倉庫鹿屋店",
+        "address": "鹿児島県鹿屋市寿８丁目７１４−２",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "19713",
+        "latitude": "31.3833665",
+        "longitude": "130.8765948",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=マンガ倉庫鹿屋店"
+    },
+    {
+        "name": "タイトーＦステーションニシムタ出水店",
+        "address": "鹿児島県出水市六月田町３４７番地",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "20013",
+        "latitude": "32.10524811337652",
+        "longitude": "130.34544106137696",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=タイトーＦステーションニシムタ出水店"
+    },
+    {
+        "name": "ＡｍｕｓｅｍｅｎｔｃｉｔｙＧ−ＳＴＡ",
+        "address": "鹿児島県薩摩川内市向田本町４９番",
+        "game": "オンゲキ",
+        "area": "鹿児島県",
+        "game_id": "88",
+        "region_id": "45",
+        "store_id": "25477",
+        "latitude": "31.815807337301123",
+        "longitude": "130.30740182481463",
+        "map_url": "https://maps.google.com/maps.google.com/maps?q=ＡｍｕｓｅｍｅｎｔｃｉｔｙＧ−ＳＴＡ"
+    }
+]
