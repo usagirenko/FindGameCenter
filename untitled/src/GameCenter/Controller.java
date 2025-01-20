@@ -41,7 +41,7 @@ public class Controller {
 
     @FXML
     public void initialize() {
-        String jsonDirectoryPath = "/home/latenci/study/FindGameCenter/data";
+        String jsonDirectoryPath = "data";
         gameCenters = Main.loadGameCentersFromJson(jsonDirectoryPath);
         showMainMenu();
     }

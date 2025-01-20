@@ -397,7 +397,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        String jsonDirectoryPath = "/home/latenci/study/FindGameCenter/data";
+        String jsonDirectoryPath = "data";
         List<GameCenter> gameCenters = loadGameCentersFromJson(jsonDirectoryPath);
         Scanner scanner = new Scanner(System.in);
         boolean running = true;
