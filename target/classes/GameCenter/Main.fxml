@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.image.ImageView?>
+<VBox prefHeight="149.0" prefWidth="248.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GameCenter.Controller">
+    <children>
+        <Label style="-fx-font-size: 24px; -fx-font-weight: bold;" text="Game Center Finder" />
+        <VBox fx:id="mainMenu" spacing="10">
+            <Button onAction="#handleSearchByCabinet" text="Search by Cabinet" />
+            <Button onAction="#handleSearchByArea" text="Search by Area" />
+            <Button text="Find Nearest Game Centers" onAction="#handleFindNearestGameCenters"/>
+        </VBox>
+        <VBox fx:id="cabinetList" spacing="10" visible="false">
+            <Button onAction="#handleBackToMainMenu" text="Back to Main Menu" />
+            <Label style="-fx-font-size: 18px;" text="Select Cabinet" />
+            <ListView fx:id="cabinetListView" />
+        </VBox>
+        <VBox fx:id="areaList" spacing="10" visible="false">
+            <Button onAction="#handleBackToMainMenu" text="Back to Main Menu" />
+            <Label fx:id="areaListLabel" style="-fx-font-size: 18px;" text="Select Area" />
+            <ListView fx:id="areaListView" />
+        </VBox>
+        <VBox fx:id="centerList" spacing="10" visible="false">
+            <Button onAction="#handleBackToMainMenu" text="Back to Main Menu" />
+            <Label fx:id="centerListLabel" style="-fx-font-size: 18px;" text="Game Centers" />
+            <ListView fx:id="centerListView" />
+        </VBox>
+        <VBox fx:id="centerDetails" spacing="10" visible="false">
+            <Button onAction="#handleBackToMainMenu" text="Back to Main Menu" />
+            <ListView fx:id="centerDetailsListView" />
+            <Label style="-fx-font-size: 16px;" text="Available Cabinets:" />
+            <ListView fx:id="cabinetDetailsListView" />
+        </VBox>
+    </children>
+</VBox>

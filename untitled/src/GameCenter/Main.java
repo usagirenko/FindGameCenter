@@ -1,17 +1,15 @@
+package GameCenter;
+
 import java.util.*;
 
-import com.fasterxml.jackson.core.JsonParseException;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
+
 public class Main {
+
     private static void searchGameCenterByArea(List<GameCenter> gameCenters, Scanner scanner) {
-        // First, collect all unique areas and their region IDs
         Map<String, String> areaMap = new TreeMap<>(); // Using TreeMap for sorted keys
         for (GameCenter center : gameCenters) {
             if (center.getRegionId() < 1000) {
@@ -23,16 +21,16 @@ public class Main {
                 areaMap.put(area, regionId);
             }
         }
-         areaMap.put("Japan", "1000"); // Add Japan to the end
+         areaMap.put("Japan", "1000");
 
-        // Display areas
+
         System.out.println("\n=== Available Areas ===");
         List<String> areas = new ArrayList<>(areaMap.keySet());
         for (int i = 0; i < areas.size(); i++) {
             System.out.printf("%d. %s%n", i + 1, areas.get(i));
         }
 
-        // Get user selection
+
         while (true) {
             System.out.print("Enter the number of the area (or 0 to go back): ");
             try {
@@ -46,7 +44,6 @@ public class Main {
                     if (Integer.parseInt(regionId) == 1000) {
                         searchJapaneseRegions(gameCenters, scanner);
                     } else {
-                        // Display all game centers in the selected area
                         displayGameCentersByArea(gameCenters, selectedArea);
                     }
                     break;
@@ -59,7 +56,6 @@ public class Main {
         }
     }
 
-    // Method to handle Japanese regions
     private static void searchJapaneseRegions(List<GameCenter> gameCenters, Scanner scanner) {
         // Collect all unique areas (regions) within Japan
         Set<String> regions = new TreeSet<>();
@@ -69,14 +65,12 @@ public class Main {
             }
         }
 
-        // Display regions
         System.out.println("\n=== Available Regions in Japan ===");
         List<String> regionList = new ArrayList<>(regions);
         for (int i = 0; i < regionList.size(); i++) {
             System.out.printf("%d. %s%n", i + 1, regionList.get(i));
         }
 
-        // Get user selection
         while (true) {
             System.out.print("Enter the number of the region (or 0 to go back): ");
             try {
@@ -95,7 +89,6 @@ public class Main {
         }
     }
 
-    // Method to display game centers by area
     private static void displayGameCentersByArea(List<GameCenter> gameCenters, String area) {
         System.out.printf("\n=== Game Centers in %s ===%n", area);
         boolean found = false;
@@ -114,7 +107,7 @@ public class Main {
             System.out.printf("%d. %s%n", i + 1, gameCentersInArea.get(i).getName());
         }
 
-        // Get user selection
+
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print("Enter the number of the game center to view details (or 0 to go back): ");
@@ -135,8 +128,6 @@ public class Main {
 
     }
 
-
-    // Method to display cabinets in a game center
     private static void displayCabinets(GameCenter gameCenter) {
         System.out.printf("\n=== Cabinets in %s ===%n", gameCenter.getName());
         System.out.printf(gameCenter.toString());
@@ -146,8 +137,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         scanner.nextLine();
     }
-
-    // Method to show available cabinets across all game centers
     private static Map showAvailableCabinets(List<GameCenter> gameCenters, Scanner scanner) {
         System.out.println("=== List of Available Cabinets ===");
         List<String> availableCabinets = new ArrayList<String>();
@@ -172,7 +161,7 @@ public class Main {
         return availableCabinetsMap;
     }
 
-    // Method to search for game centers by cabinet name
+
     private static void searchGameCenterByCabinet(List<GameCenter> gameCenters, Scanner scanner) {
         Map<Integer, String> availableCabinetsMap = showAvailableCabinets(gameCenters, scanner);
         if (availableCabinetsMap == null) {
@@ -183,7 +172,6 @@ public class Main {
         int cabinetIndex = Integer.parseInt(scanner.nextLine()) - 1;
         String cabinetName = availableCabinetsMap.get(cabinetIndex);
 
-        // Collect all unique areas
         Set<String> areas = new TreeSet<>();
         for (GameCenter center : gameCenters) {
             if (center.hasCabinet(cabinetName)) {
@@ -191,14 +179,12 @@ public class Main {
             }
         }
 
-        // Display areas
         System.out.println("\n=== Available Areas ===");
         List<String> areaList = new ArrayList<>(areas);
         for (int i = 0; i < areaList.size(); i++) {
             System.out.printf("%d. %s%n", i + 1, areaList.get(i));
         }
 
-        // Get user selection
         while (true) {
             System.out.print("Enter the number of the area (or 0 to go back): ");
             try {
@@ -233,7 +219,6 @@ public class Main {
             System.out.printf("%d. %s%n", i + 1, gameCentersInArea.get(i).getName());
         }
 
-        // Get user selection
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print("Enter the number of the game center to view details (or 0 to go back): ");
@@ -253,9 +238,8 @@ public class Main {
         }
     }
 
-    private static List<GameCenter> loadGameCentersFromJson(String directoryPath) {
+    static List<GameCenter> loadGameCentersFromJson(String directoryPath) {
         ObjectMapper mapper = new ObjectMapper();
-        // Use a Map to track unique game centers by their store_id
         Map<Integer, GameCenter> gameCenterMap = new HashMap<>();
         File directory = new File(directoryPath);
 
@@ -344,6 +328,43 @@ public class Main {
         }
     }
 
+    private static void findNearestGameCenters(List<GameCenter> gameCenters, double[] userLocation, Scanner scanner) {
+        double userLat = userLocation[0];
+        double userLng = userLocation[1];
+
+        List<GameCenter> nearestGameCenters = new ArrayList<>();
+        for (GameCenter center : gameCenters) {
+            double distance = LocationService.calculateDistance(userLat, userLng, center.getLatitude(), center.getLongitude());
+            center.setDistance(distance);
+            nearestGameCenters.add(center);
+        }
+
+        nearestGameCenters.sort(Comparator.comparingDouble(GameCenter::getDistance));
+
+        System.out.println("\n=== Top 10 Nearest Game Centers ===");
+        for (int i = 0; i < Math.min(10, nearestGameCenters.size()); i++) {
+            GameCenter gcd = nearestGameCenters.get(i);
+            System.out.printf("%d. %s (%.2f km)%n", i + 1, gcd.getName(), gcd.getDistance());
+        }
+
+        while (true) {
+            System.out.print("Enter the number of the game center to view details (or 0 to go back): ");
+            try {
+                int selection = Integer.parseInt(scanner.nextLine());
+                if (selection == 0) return;
+                if (selection > 0 && selection <= Math.min(10, nearestGameCenters.size())) {
+                    GameCenter selectedCenter = nearestGameCenters.get(selection - 1);
+                    displayCabinets(selectedCenter);
+                    break;
+                } else {
+                    System.out.println("Invalid selection. Please try again.");
+                }
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid input. Please enter a number.");
+            }
+        }
+    }
+
     private static Cabinet createCabinet(String cabinetName) {
         switch (cabinetName) {
                 case "CHUNITHM International Version":
@@ -362,7 +383,20 @@ public class Main {
         }
     }
 
+
+
     public static void main(String[] args) {
+        double[] userLocation = new double[2];
+        try {
+            userLocation = LocationService.getUserLocation();
+            double userLat = userLocation[0];
+            double userLng = userLocation[1];
+            System.out.printf("Your location: %f, %f%n", userLat, userLng);
+            System.out.println("Static map URL: " + LocationService.getStaticMapUrl(userLat, userLng));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
         String jsonDirectoryPath = "/home/latenci/study/FindGameCenter/data";
         List<GameCenter> gameCenters = loadGameCentersFromJson(jsonDirectoryPath);
         Scanner scanner = new Scanner(System.in);
@@ -372,7 +406,8 @@ public class Main {
             System.out.println("\n=== Game Center CLI ===");
             System.out.println("1. Search game center by cabinet");
             System.out.println("2. Search game center by area");
-            System.out.println("3. Exit");
+            System.out.println("3. Find nearest game centers");
+            System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
 
             String choice = scanner.nextLine();
@@ -385,9 +420,12 @@ public class Main {
                     searchGameCenterByArea(gameCenters, scanner);
                     break;
                 case "3":
-                    System.out.println("Exiting the CLI. Goodbye!");
-                    running = false;
+                    findNearestGameCenters(gameCenters,userLocation,scanner);
                     break;
+                    case "4":
+                      System.out.println("Exiting the CLI. Goodbye!");
+                      running = false;
+                      break;
                 default:
                     System.out.println("Invalid choice. Please try again.");
             }

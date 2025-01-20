@@ -1,3 +1,4 @@
+package GameCenter;
 
 /*
 public class Cabinet {
